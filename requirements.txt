@@ -1,0 +1,4 @@
+Flask==3.0.3
+line-bot-sdk==2.5.2
+openai>=1.40.0
+gunicorn==21.2.0
